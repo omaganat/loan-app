@@ -1,6 +1,6 @@
 # Loan Application Take-Home
 
-Video: _add a public Loom/Jam link here after recording the walkthrough._
+Video: https://jumpshare.com/s/6UrNsQ14GAKUfLCZqOOg
 
 Small loan application flow:
 
@@ -77,8 +77,3 @@ Expected results:
 - NY / blacklist: denied page, no DB rows, no mock payload
 - First approval: one customer + one application + mock `POST /customers`
 - Same SSN again: same IDs updated in DB, mock `PUT /customers/{ssn}`
-
-## Missing from this submission
-
-- The walkthrough video link (record after running the four flows)
-- Docker / CI (not required to prove the design)
