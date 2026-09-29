@@ -1,6 +1,6 @@
 # Loan Application Take-Home
 
-Video: https://jumpshare.com/s/6UrNsQ14GAKUfLCZqOOg
+Video: https://streamable.com/uix1ip
 
 Small loan application flow:
 
